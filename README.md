@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I am now learning **NLP**, **Recommanding System** and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in Machine Learning.
 * 💼   AI Algorithm Engineer at X.D. AI LAB
@@ -11,7 +11,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 📚   Reading more about Cyberpunk, History and how the computer works.
 * 💻   With 3 years' computer science education, 4 years' control science education.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://deeptrial.github.io/).
 
 <details>
   <summary>Some other achievements...</summary>

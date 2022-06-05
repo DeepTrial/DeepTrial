@@ -2,16 +2,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I am now learning **NLP**, **Recommanding System** and also **Write some blogs**. 🌈    
-
-* 🧐   Interested in Machine Learning.
-* 💼   AI Algorithm Engineer at X.D. AI LAB
-* 🎓   Graduated from East China Normal University with degree of M. S. in computer science
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Cyberpunk, History and how the computer works.
-* 💻   With 3 years' computer science education, 4 years' control science education.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://deeptrial.github.io/).
+* 🧐   Interested in Artificial Intelligence.
+* 💼   now an AI SDK Engineer in a SoC company
+* 🎓   Graduated from East China Normal University with degree of M. S. in computer science. 
+* 📚   Like Games. Wants to be an Indie Game Developer
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [ZhiHu Blog](https://www.zhihu.com/people/xing-chen-cong-46).
 
 <details>
   <summary>Some other achievements...</summary>

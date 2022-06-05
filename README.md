@@ -16,10 +16,9 @@
 
 <p>Languages and Frameworks</p>
 
-<img align="left" src="icons/tensorflow.svg" />
-<img align="left" src="icons/cplusplus.svg" />
-<img align="left" src="icons/opencv.svg" />
-<img align="left" src="icons/pytorch.svg" />
+<img align="center" src="icons/tensorflow.svg" />
+<img align="center" src="icons/opencv.svg" />
+<img align="center" src="icons/leetcode.svg" />
 <br />
 <br />
 

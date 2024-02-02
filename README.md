@@ -3,10 +3,8 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 * 🧐   Interested in Artificial Intelligence.
-* 💼   now an AI SDK Engineer in a SoC company
 * 🎓   Graduated from East China Normal University with degree of M. S. in computer science. 
 * 📚   Like Games. Wants to be an Indie Game Developer
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [ZhiHu Blog](https://www.zhihu.com/people/xing-chen-cong-46).
 
 <details>
   <summary>Some other achievements...</summary>
